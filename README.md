@@ -12,7 +12,7 @@
 Clone from Github
 
 ```
-git clone https://github.com/themewagon/mantis-free-react-admin-template.git
+git clone https://github.com/themewagon/Spike-Bootstrap.git
 ```
 ## Author
 
