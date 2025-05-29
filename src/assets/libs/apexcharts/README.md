@@ -102,7 +102,7 @@ Below is an example of synchronized charts with github style.
 Zoom, Pan, and Scroll through data. Make selections and load other charts using those selections.
 An example showing some interactivity
 
-<p align="center"><a href="https://codepen.io/apexcharts/pen/QrbEQg" target="_blank"><img src="https://apexcharts.com/media/interactivity.gif" alt="interactive chart"></a></p>
+<p align="center"><a href="https://codepen.io/apexcharts/pen/QrbEQg"  ><img src="https://apexcharts.com/media/interactivity.gif" alt="interactive chart"></a></p>
 
 ## Dynamic Series Update
 
@@ -151,11 +151,11 @@ Utilize sparklines to indicate trends in data, for example, occasional increment
 ## Need Advanced Data Grid for your next project?
 We partnered with Infragistics, creators of the fastest data grids on the planet! Ignite UI Grids can handle unlimited rows and columns of data while providing access to custom templates and real-time data updates.
 
-<p align="center"><a href="https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid" target="_blank"><img src="https://apexcharts.com/media/infragistics-data-grid.png" /></a></p>
+<p align="center"><a href="https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid"  ><img src="https://apexcharts.com/media/infragistics-data-grid.png" /></a></p>
 
 Featuring an intuitive API for easy theming and branding, you can quickly bind to data with minimal hand-on coding. The grid is available in most of your favorite frameworks:
 
-<a target="_blank" href="https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid">Angular Data Grid</a> | <a target="_blank" href="https://www.infragistics.com/products/ignite-ui-react/react/components/grids">React Data Grid</a> | <a target="_blank" href="https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/data-grid">Blazor Data Grid</a> | <a target="_blank" href="https://www.infragistics.com/products/ignite-ui-web-components/web-components/components/data-grid">Web Components DataGrid</a> | <a target="_blank" href="https://www.igniteui.com/grid/overview">jQuery Data Grid </a>
+<a   href="https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid">Angular Data Grid</a> | <a   href="https://www.infragistics.com/products/ignite-ui-react/react/components/grids">React Data Grid</a> | <a   href="https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/data-grid">Blazor Data Grid</a> | <a   href="https://www.infragistics.com/products/ignite-ui-web-components/web-components/components/data-grid">Web Components DataGrid</a> | <a   href="https://www.igniteui.com/grid/overview">jQuery Data Grid </a>
 
 ## What's included
 
@@ -207,7 +207,7 @@ Facebook: <a href="https://facebook.com/apexcharts">fb.com/apexcharts</a>
 
 ## Dependency
 
-ApexCharts uses <a href="https://svgdotjs.github.io/" target="_blank">SVG.js</a> for drawing shapes, animations, applying svg filters, and a lot more under the hood. The library is bundled in the final build file, so you don't need to include it.
+ApexCharts uses <a href="https://svgdotjs.github.io/"  >SVG.js</a> for drawing shapes, animations, applying svg filters, and a lot more under the hood. The library is bundled in the final build file, so you don't need to include it.
 
 ## License
 
